@@ -1,4 +1,4 @@
-@import url('fonts/inter-ui/inter-ui.css');
+@import url('fonts/inter/inter.css');
 @import url('https://use.fontawesome.com/releases/v5.14.0/css/all.css');
 
 html {
@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    font-family: 'Inter UI', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 400;
     color: #677279;
     background: #000000;
