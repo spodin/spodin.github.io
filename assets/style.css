@@ -2,12 +2,12 @@
 @import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css');
 
 html {
-    font-size: 1.7em;
+    font-size: 1.6em;
 }
 
 body {
     font-family: 'Inter', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: #677279;
     background: #000000;
     margin: 0;
